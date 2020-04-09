@@ -1,6 +1,6 @@
 # NomeGator
 
-<img src=”/public/print.pgn”>
+![print](https://user-images.githubusercontent.com/43351248/78861892-5b689c00-7a0c-11ea-894a-9d520cab163a.png)
 
 ## Project setup
 ```
